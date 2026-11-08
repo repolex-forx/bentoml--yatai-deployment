@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/yatai-deployment/commit/60877e2dffcec073e6e3c6e088a3163fb7618663",
       "git:hexsha": "60877e2dffcec073e6e3c6e088a3163fb7618663",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/bentoml/yatai-deployment/commit/420c37f0e0a5c1e782dc2c3520f23640ad4eb60c",
