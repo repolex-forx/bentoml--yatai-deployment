@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "yatai-deployment",
+  "versions": [
+    {
+      "commit": "60877e2dffcec073e6e3c6e088a3163fb7618663",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:41:14.401737+00:00"
+    }
+  ]
+}
